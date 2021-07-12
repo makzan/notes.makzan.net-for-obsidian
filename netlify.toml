@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://notes.makzan.net/*"
+  to = "https://publish.obsidian.md/serve?url=notes.makzan.net/:splat"
+  status = 200
+  force = true
